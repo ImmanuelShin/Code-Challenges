@@ -8,10 +8,10 @@ class Solution:
             '/': lambda x, y: int(x / y)
         }
         for x in tokens:
-            try:
-                int(x)
-                stack.append(int(x))
-            except ValueError:
+            if x in ops:
                 last = stack.pop()
                 stack.append(ops[x](stack.pop(), last))
+            else:
+                int(x)
+                stack.append(int(x))
         return sum(stack)
