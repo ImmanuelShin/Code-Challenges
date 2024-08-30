@@ -16,6 +16,10 @@ The second obstacle I ran into was then checking if the character was a number w
 
 The last obstacle was the fact that I needed to truncate division to 0, which I had forgotten how to do but was a simple fix nonetheless. 
 
-## Things I would do differently
+## Conclusion/Things I would do differently
 
 Aside from the obvious "use the dictionary I created" change, I am not too sure of how to speed this up. I could use stack[-1] instead of sum(stack) as I forgot to change that. I could also remove the redundant int(x) in the try block.
+
+## Score
+
+![LeetCode Score](image.png)

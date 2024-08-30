@@ -19,3 +19,7 @@ Another issue I found was with the average method. There are cases where the ave
 ## Conclusion/Things I would do differently
 
 Finally, I realized something when I looked at the definition for a majority element, "The majority element is the element that appears more than ⌊n / 2⌋ times." The majority element always takes up more than half of the space in the list. That means that if sorted, the middle value should always be the majority element. Of course, that means I'd have to sort the array, which at the best worst-case will only ever be O(n log n). That means this solution isn't 100% accepted as it only satisfies one part of the follow up, but today is a busy day, so an actual solution will have to wait till later.
+
+## Score
+
+![LeetCode Score](image.png)
