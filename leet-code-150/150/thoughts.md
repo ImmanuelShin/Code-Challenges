@@ -1,5 +1,9 @@
 # Approach
 
+## Problem
+
+![Problem 150](problem_image.png)
+
 ## Initial thoughts
 
 Knowing that this was a simple stack problem, I knew it was a simple single pass through iteration. Order of operations is adhered to by nature of the reverse notation and the only thing I needed to check was whether or not the next character was a number.
@@ -22,4 +26,4 @@ Aside from the obvious "use the dictionary I created" change, I am not too sure 
 
 ## Score
 
-![LeetCode Score](image.png)
+![LeetCode Score](score_image.png)

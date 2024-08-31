@@ -1,5 +1,9 @@
 # Approach
 
+## Problem
+
+![Problem 169](problem_image.png)
+
 ## Initial thoughts
 
 This problem is fairly simple and easy. It simply asks to find the majority element of an array. How one might normally go about this is by keeping a record of each unique element's frequency. A for loop to traverse and then a dictionary for storage. As I have already done this problem before, I decided to try the follow up. The follow up asks for linear time and O(1) space. Thus, storing the frequencies is no longer an option as that takes O(n) space.
@@ -22,4 +26,4 @@ Finally, I realized something when I looked at the definition for a majority ele
 
 ## Score
 
-![LeetCode Score](image.png)
+![LeetCode Score](score_image.png)
