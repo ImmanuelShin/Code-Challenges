@@ -2,10 +2,10 @@
 
 This directory will hold all of the problems from LeetCode's Top interview 150 study plan.
 
-[106](leet-code-150\106\thoughts.md)  
-[150](leet-code-150\150\thoughts.md)  
-[169](leet-code-150\169\thoughts.md)  
-[274](leet-code-150\274\thoughts.md)
+[106](106\thoughts.md)  
+[150](150\thoughts.md)  
+[169](169\thoughts.md)  
+[274](274\thoughts.md)
 
 ### LeetPush
 
