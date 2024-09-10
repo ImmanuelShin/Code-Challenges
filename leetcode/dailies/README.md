@@ -2,6 +2,8 @@
 
 This directory will hold all of the problems from LeetCode's daily code interview problem.
 
+[2807](2807\thoughts.md)  
+
 ### LeetPush
 
 Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
