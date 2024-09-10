@@ -13,6 +13,9 @@ This directory will hold all of the problems from LeetCode's Top interview 150 s
 [224](224\thoughts.md)  
 [274](274\thoughts.md)
 
+## Cool Badge
+<img src="50_day_badge.png" alt="LC 50 Day Badge" height="400"/>
+
 ### LeetPush
 
 Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
