@@ -2,7 +2,7 @@
 
 This directory will hold all of the problems from LeetCode's daily code interview problem.
 
-[2807](2807\thoughts.md)  
+[2807](2807/thoughts.md)  
 
 ### LeetPush
 
