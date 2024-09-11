@@ -4,4 +4,5 @@ This repository will contain a collection of technical interview prep questions 
 
 ## Sources
 
-[LeetCode](leet-code-150\README.md)  
+[LeetCode 150](leetcode\top-150\README.md)  
+[LeetCode dailies](leetcode\dailies\README.md)  
