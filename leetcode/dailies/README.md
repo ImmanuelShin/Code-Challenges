@@ -4,6 +4,7 @@ This directory will hold all of the problems from LeetCode's daily code intervie
 
 [2807](2807/thoughts.md)  
 [1684](1684/thoughts.md)  
+[1497](1497/thoughts.md)  
 
 ### LeetPush
 
