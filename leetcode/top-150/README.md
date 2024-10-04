@@ -2,6 +2,7 @@
 
 This directory will hold all of the problems from LeetCode's Top interview 150 study plan.
 
+[003](003/thoughts.md)  
 [006](006/thoughts.md)  
 [019](019/thoughts.md)  
 [033](033/thoughts.md)  
