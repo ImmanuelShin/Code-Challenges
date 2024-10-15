@@ -14,7 +14,7 @@ class Solution:
             return None
         q = deque()
         q.append(root)
-        dummy = Node(-999)
+        dummy = Node(float("-inf"))
         while q:
             length = len(q)
             prev = dummy
