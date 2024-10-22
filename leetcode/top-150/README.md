@@ -25,6 +25,7 @@ This directory will hold all of the problems from LeetCode's Top interview 150 s
 [230](230/thoughts.md)  
 [236](236/thoughts.md)  
 [274](274/thoughts.md)  
+[452](452/thoughts.md)  
 [637](637/thoughts.md)  
 
 ## Cool Badge
