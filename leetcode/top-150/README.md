@@ -14,6 +14,7 @@ This directory will hold all of the problems from LeetCode's Top interview 150 s
 [070](070/thoughts.md)  
 [098](098/thoughts.md)  
 [102](102/thoughts.md)  
+[103](103/thoughts.md)  
 [117](117/thoughts.md)  
 [148](148/thoughts.md)  
 [106](106/thoughts.md)  
