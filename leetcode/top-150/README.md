@@ -5,6 +5,7 @@ This directory will hold all of the problems from LeetCode's Top interview 150 s
 [003](003/thoughts.md)  
 [006](006/thoughts.md)  
 [009](009/thoughts.md)  
+[017](017/thoughts.md)  
 [019](019/thoughts.md)  
 [025](025/thoughts.md)  
 [030](030/thoughts.md)  
