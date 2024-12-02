@@ -9,3 +9,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+
+
+ ## Links
+
+ [Top 150](leetcode/top-150/README.md)  
+ [Daily](leetcode/dailies/README.md)  
